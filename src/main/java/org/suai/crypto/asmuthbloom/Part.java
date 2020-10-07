@@ -1,4 +1,4 @@
-package asmuthbloom;
+package org.suai.crypto.asmuthbloom;
 
 import java.math.BigInteger;
 

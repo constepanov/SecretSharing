@@ -1,5 +1,7 @@
-import asmuthbloom.AsmuthBloomScheme;
-import asmuthbloom.Part;
+package org.suai.crypto;
+
+import org.suai.crypto.asmuthbloom.AsmuthBloomScheme;
+import org.suai.crypto.asmuthbloom.Part;
 
 import java.util.Arrays;
 
