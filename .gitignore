@@ -6,3 +6,11 @@ target
 *.ipr
 .idea
 out
+
+# Eclipse and VSCode project files
+.settings
+.classpath
+.project
+.factorypath
+build
+.vscode
